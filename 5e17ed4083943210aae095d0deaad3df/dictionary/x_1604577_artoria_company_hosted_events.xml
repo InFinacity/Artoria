@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1c872d8083943210aae095d0deaad341" label="Company Hosted Events" max_length="40" name="x_1604577_artoria_company_hosted_events" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date time" max_length="40" name="date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" type="string"/>
+    </element>
+</database>
